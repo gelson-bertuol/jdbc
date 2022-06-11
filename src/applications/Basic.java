@@ -1,10 +1,10 @@
-package application;
+package applications;
 
 import java.sql.Connection;
 
 import db.DB;
 
-public class Program {
+public class Basic {
 
 	public static void main(String[] args) {
 
